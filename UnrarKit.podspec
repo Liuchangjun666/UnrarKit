@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
                       "Libraries/unrar/strfn.cpp",
                       "Libraries/unrar/pathfn.cpp",
                       "Libraries/unrar/smallfn.cpp",
-                      "Libraries/unrar/global.cpp",
+                      "Libraries/unrar/rarGlobal.cpp",
                       "Libraries/unrar/file.cpp",
                       "Libraries/unrar/filefn.cpp",
                       "Libraries/unrar/filcreat.cpp",
